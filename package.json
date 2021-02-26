@@ -5,7 +5,7 @@
   "description": "build type-safe builders",
   "repository": {
     "type": "git",
-    "url": "hota1024/vuilder"
+    "url": "https://github.com/hota1024/vuilder"
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
